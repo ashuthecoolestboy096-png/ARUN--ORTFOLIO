@@ -6,13 +6,13 @@ const timeline = [
 		items: [
 			{
 				title: 'Full Stack Developer',
-				place: '@Wimetrix',
+				place: '@WNEWTON SCHOOL OF TECHNOLOGY',
 				timePeriod: '2022 - Present',
 				description: (
 					<ul>
 						<li>
 							Contributed significantly to the development of main project{' '}
-							<strong>Sooperwizer</strong>, a pivotal project for automating and
+							<strong>NEWTON SCHOOL OF TECHNOLOGY</strong>, a pivotal project for automating and
 							optimizing textile processes.
 						</li>
 						<li>
@@ -30,13 +30,12 @@ const timeline = [
 		items: [
 			{
 				title: 'Full Stack Developer',
-				place: 'House of Professionals (HOP)',
+				place: 'NEWTON SCHOOL OF TECHNOLOGY',
 				timePeriod: '2021 - 2022',
 				description: (
 					<ul>
 						<li>
-							Earned a Full Stack Development certification from the House of
-							Professional Developers.
+							Earned a Full Stack Development certification from NEWTON SCHOOL OF TECHNOLOGY.
 						</li>
 						<li>
 							Awarded for securing the top position in class, demonstrating
@@ -51,10 +50,10 @@ const timeline = [
 		title: 'Education',
 		items: [
 			{
-				title: 'Bachelor of Science in Computer Science (BSCS)',
-				place: 'Virtual University of Pakistan',
-				timePeriod: '2022 - Present',
-				description: '',
+				title: 'Bachelor of Technology in Computer Science and Engineering (BTECH)',
+				place: 'NEWTON SCHOOL OF TECHNOLOGY ',
+				timePeriod: '2024 - Present',
+				description: 'AI ML',
 			},
 		],
 	},
@@ -75,11 +74,11 @@ export const AboutMe = () => {
 			<div>
 				<div className='intro'>
 					<p style={{ marginTop: '20px' }}>
-						👋 Hey, I'm Abdullah Iqbal, a Full Stack Developer.
+						👋 Hey, ARUN KUMAR, a Full Stack Developer.
 					</p>
 					<p>
 						I've been working with <strong>React</strong> and{' '}
-						<strong>Node</strong> for the past <strong>three years</strong>,
+						<strong>Node</strong> for the past <strong>one years</strong>,
 						building web applications that are fast, scalable and user-friendly.
 					</p>
 					<p>
